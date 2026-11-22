@@ -67,3 +67,4 @@ html, body {
 }
 
 html { background-color: #f6efe4; }
+#GameCanvas { visibility: hidden; }
